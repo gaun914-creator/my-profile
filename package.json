@@ -1,0 +1,9 @@
+{
+  "name": "my-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js 내장 HTTP 모듈로 실행하는 개인 프로필 사이트",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
